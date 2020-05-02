@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: Software
+title: "Welcome to our third slide!"
 ---
-Your text
-Use the left arrow to go back!
+My Text
+Use the right arrow to go back!
